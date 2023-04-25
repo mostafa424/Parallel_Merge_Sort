@@ -1,0 +1,3 @@
+/home/mostafaeltawy/college/3rd year/term 2/Parallel/Lab4/cmake-build-debug/CMakeFiles/Lab4.dir
+/home/mostafaeltawy/college/3rd year/term 2/Parallel/Lab4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/mostafaeltawy/college/3rd year/term 2/Parallel/Lab4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
